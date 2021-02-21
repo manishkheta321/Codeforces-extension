@@ -10,7 +10,7 @@
 
 3. Click **Load unpacked extension** or drag the folder with extension onto the page to load the extension. The new extension will be displayed on the page.
 
-4. Go to `https://codeforces.com/profile/[your_username]`, and you will see a bar chart with details of your solved problems.
+4. Go to `https://codeforces.com/profile/[your_codeforces_handle]`, and you will see a bar chart with details of your solved problems.
 
 ![alt text](https://github.com/manishkheta321/Codeforces-extension/blob/main/codeforcesExtension.jpg)
 
