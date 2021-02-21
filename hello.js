@@ -127,6 +127,15 @@ var f = fetch(
       },
     };
     var data = [trace1, trace2];
-    var layout = { barmode: "stack", title: `Tags for ${username}` };
+    var layout = {
+      barmode: "stack",
+      yaxis: {
+        automargin: true,
+      },
+      xaxis: {
+        automargin: true,
+      },
+      title: `Tags for ${username}`,
+    };
     Plotly.newPlot(div1, data, layout);
   });
